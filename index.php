@@ -10,7 +10,7 @@
 	</head>
 	<body>
 		<div id="all">
-			<img src="pie.jpg">
+			<img src="pie.png">
 			<p>Alex has eaten this many pies this Christmas:</p>
 			<h1><?php echo $rows; ?></h1>
 		</div>
